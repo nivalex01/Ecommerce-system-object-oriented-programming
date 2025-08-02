@@ -4,6 +4,9 @@ This is a multi-part academic project developed in C# for building a fully objec
 
 The project simulates a simplified yet functional online marketplace similar to platforms like Amazon or eBay, where **buyers** can browse products and place orders, and **sellers** can manage product inventories.
 
+![Store vid](https://github.com/user-attachments/assets/5b8c0e12-b042-40fa-a9af-7b0cd5d7a973)
+
+
 We implemented the project in **five structured stages**, each focusing on a different set of software engineering principles and technologies:
 
 ### 🔧 Technologies and Concepts Used
