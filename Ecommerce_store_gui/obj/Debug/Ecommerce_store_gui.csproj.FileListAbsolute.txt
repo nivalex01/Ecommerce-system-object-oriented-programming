@@ -1,0 +1,23 @@
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\bin\Debug\Ecommerce_store_gui.exe.config
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\bin\Debug\Ecommerce_store_gui.exe
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\bin\Debug\Ecommerce_store_gui.pdb
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.AssemblyReference.cache
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.Properties.Resources.resources
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.GenerateResource.cache
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.CoreCompileInputs.cache
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.exe
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.pdb
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.StoreGui.resources
+C:\Users\user\שולחן העבודה\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.StoreSellerAndBuyersDataForm.resources
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\bin\Debug\Ecommerce_store_gui.exe.config
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\bin\Debug\Ecommerce_store_gui.exe
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\bin\Debug\Ecommerce_store_gui.pdb
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.AssemblyReference.cache
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.StoreGui.resources
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.Properties.Resources.resources
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.StoreSellerAndBuyersDataForm.resources
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.GenerateResource.cache
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.exe
+C:\Users\user\Dropbox\Ruppin\Year A\סמסטר ב\תכנות מונחה עצמים\Ecommerce_Project_DanKhilkevich_NivAlex\Ecommerce_store_gui\obj\Debug\Ecommerce_store_gui.pdb

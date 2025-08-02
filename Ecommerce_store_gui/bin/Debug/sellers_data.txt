@@ -1,0 +1,12 @@
+Username: kiko, password: 12345, Address: Street Name: robin, Number of Building: 19, City: yon, Country: israel, Number of Products: 1
+  - Product Name: bannana, Product ID: 1, Price: 15, Type: SpecialProduct, Category: Kids, Packaging Fee: 15, Stars Ranking: 3
+
+Username: nivoo, password: 12345, Address: Street Name: robino, Number of Building: 15, City: yono, Country: il, Number of Products: 2
+  - Product Name: apple, Product ID: 2, Price: 15, Type: SpecialProduct, Category: Office, Packaging Fee: 10, Stars Ranking: 4
+  - Product Name: limon, Product ID: 3, Price: 99, Type: Product, Category: Kids
+
+Username: orit, password: 12345, Address: Street Name: tzelon, Number of Building: 99, City: yona, Country: israel, Number of Products: 1
+  - Product Name: tapuz, Product ID: 4, Price: 10, Type: SpecialProduct, Category: Kids, Packaging Fee: 12, Stars Ranking: 4
+
+Username: yuavlo, password: 18545, Address: Street Name: assas, Number of Building: 15, City: netanya, Country: usa, Number of Products: 0
+
