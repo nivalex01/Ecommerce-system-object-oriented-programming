@@ -155,7 +155,7 @@ This is a Windows Forms Application written in **C#**. To run the project locall
 1. **Clone or Download the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Ecommerce-system-object-oriented-programming.git
+   git clone https://github.com/nivalex01/Ecommerce-system-object-oriented-programming.git
    cd Ecommerce-system-object-oriented-programming/Ecommerce_store_gui
 
 2. **Open the Solution in Visual Studio**
