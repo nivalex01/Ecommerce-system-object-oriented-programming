@@ -85,3 +85,52 @@ The system allows:
 - Exception-safe throughout
 
 ---
+
+## 🏗️ Project Architecture
+
+The project follows a layered, object-oriented architecture with a clear separation of concerns between **core business logic**, **data management**, and the **user interface**.
+
+### **1. Core Classes (Business Logic Layer)**
+Located in the `core_classes/` folder:
+- **User (abstract)** – Base class for all users, containing shared attributes like `Username`, `Password`, and `Address`.
+- **Buyer** – Inherits from `User`. Manages:
+  - `List<Product>` shopping cart
+  - `List<Order>` past purchases
+  - Methods for adding products, checking out, and comparing total cart value.
+- **Seller** – Inherits from `User`. Manages:
+  - `List<Product>` inventory
+  - Comparable by the number of products (via `IComparable<Seller>`).
+- **Product (base)** – Represents standard products with attributes `ProductID`, `Name`, `Price`, and `Category` (enum).
+- **SpecialProduct** – Extends `Product` with additional fields `PackagingFee` and `StarsRanking`.
+- **Order** – Represents a buyer's purchase, including order details and total price. Implements `ICloneable` for order duplication.
+- **EcommerceStore** – The main manager class that holds all `Buyers` and `Sellers`, implements operations like adding users/products, sorting sellers, and retrieving store data.
+
+---
+
+### **2. Data Layer**
+- **Persistence** – The `SaveSellersToFile()` and `LoadSellersFromFile()` methods serialize and deserialize seller and product data to/from `sellers_data.txt`.
+- **File Location** – All data files are stored in `bin/Debug/` during runtime.
+
+---
+
+### **3. Application Layer**
+- **Program Entry Point** – Initially a console menu (`Main`) for text-based interactions, handling:
+  - Adding users/products
+  - Checking out and displaying data
+  - Validating inputs with exceptions.
+
+---
+
+### **4. Presentation Layer (GUI)**
+- Built using **WinForms** (`StoreGui.cs`):
+  - Buttons for all key operations (add buyer/seller, add products, view data).
+  - `DataGridView` for displaying lists of sellers, buyers, and their products.
+  - Input validation via `ErrorProvider`.
+  - Dynamic form sections (`GroupBox`) for user-friendly data entry.
+
+---
+
+### **5. Utilities**
+- **Enums** – Define product categories for type safety and readability.
+- **Operator Overloading** – Implements `+` and `<` operators for intuitive operations on buyers, sellers, and carts.
+- **Exception Classes** – Custom domain-specific exception handling (e.g., `SingleItemOrderException`).
