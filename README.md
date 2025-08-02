@@ -137,3 +137,58 @@ Located in the `core_classes/` folder:
 - **Enums** – Define product categories for type safety and readability.
 - **Operator Overloading** – Implements `+` and `<` operators for intuitive operations on buyers, sellers, and carts.
 - **Exception Classes** – Custom domain-specific exception handling (e.g., `SingleItemOrderException`).
+
+
+## ▶️ How to Run the Project
+
+This is a Windows Forms Application written in **C#**. To run the project locally:
+
+### 🛠 Prerequisites
+
+- ✅ [Visual Studio](https://visualstudio.microsoft.com/) (any recent version)
+- ✅ .NET Framework (e.g., 4.7.2 or compatible)
+
+---
+
+### 🧪 Steps to Run
+
+1. **Clone or Download the Repository**
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Ecommerce-system-object-oriented-programming.git
+   cd Ecommerce-system-object-oriented-programming/Ecommerce_store_gui
+
+2. **Open the Solution in Visual Studio**
+
+   - Launch **Visual Studio** and open the solution file:
+     ```
+     Ecommerce_store_gui.sln
+     ```
+   - Alternatively, you can open the project file:
+     ```
+     Ecommerce_store_gui.csproj
+     ```
+
+3. **Build the Solution**
+
+   - Press:
+     ```
+     Ctrl + Shift + B
+     ```
+   - Or use the menu:
+     ```
+     Build → Build Solution
+     ```
+
+4. **Run the Project**
+
+   - Press:
+     ```
+     F5
+     ```
+     to start debugging  
+   - Or press:
+     ```
+     Ctrl + F5
+     ```
+     to run without debugging
